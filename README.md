@@ -30,6 +30,15 @@ O maior entregável da Analytics Engineer é uma **modelagem de dados** com **bo
   - Habilidade para trabalhar em ambientes ágeis 
   ##
   
+   ####  📍      CURSOS
+  
+  - Python Fundamentos para Análise de Dados - Data Science Academy - https://www.datascienceacademy.com.br/course/python-fundamentos
+  - SQL Iniciante - Alura - https://www.alura.com.br/cursos-online-data-science/sql
+  - SQL Avançado - Nate at StrataScratch - https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ
+  
+  ####  📍      LIVROS
+  
+  - Storytelling com Dados: Um guia sobre visualização de dados para profissionais de negócios - Cole Nussbaumer Knaflic
   
  ####  📍      REFERÊNCIAS
   
