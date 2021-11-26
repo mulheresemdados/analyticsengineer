@@ -35,6 +35,7 @@ O maior entregável da Analytics Engineer é uma **modelagem de dados** com **bo
   - Python Fundamentos para Análise de Dados - Data Science Academy - https://www.datascienceacademy.com.br/course/python-fundamentos
   - SQL Iniciante - Alura - https://www.alura.com.br/cursos-online-data-science/sql
   - SQL Avançado - Nate at StrataScratch - https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ
+  - Bootcamp Desenvolvedor BI - IGTI - https://www.igti.com.br/bootcamp/desenvolvedor-business-intelligence
   
   ####  📍      LIVROS
   
