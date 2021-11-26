@@ -37,7 +37,7 @@ O maior entregável da Analytics Engineer é uma **modelagem de dados** com **bo
   - SQL Avançado - Nate at StrataScratch - https://www.youtube.com/channel/UCW8Ews7tdKKkBT6GdtQaXvQ
   - Bootcamp Desenvolvedor BI - IGTI - https://www.igti.com.br/bootcamp/desenvolvedor-business-intelligence
   
-  ####  📍      LIVROS
+  ####  📍      LEITURAS
   
   - Storytelling com Dados: Um guia sobre visualização de dados para profissionais de negócios - Cole Nussbaumer Knaflic
   
