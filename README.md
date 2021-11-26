@@ -34,5 +34,6 @@ O maior entregável da Analytics Engineer é uma **modelagem de dados** com **bo
  ####  📍      REFERÊNCIAS
   
   - ARTIGO - Nubank Data Analysts are now called Analytics Engineers  - https://building.nubank.com.br/nubank-data-analysts-are-now-called-analytics-engineers/
+  - ARTIGO - Como é o processo seletivo para Analytics Engineer no Nubank? - https://blog.nubank.com.br/como-e-o-processo-seletivo-para-analytics-engineer-no-nubank/
 
  </div>
