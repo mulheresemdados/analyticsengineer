@@ -39,7 +39,7 @@ O maior entregável da Analytics Engineer é uma **modelagem de dados** com **bo
   
   ####  📍      LEITURAS
   
-  - LIVRO - Storytelling com Dados: Um guia sobre visualização de dados para profissionais de negócios - Cole Nussbaumer Knaflic
+  - LIVRO - Storytelling com Dados: Um guia sobre visualização de dados para profissionais de negócios - Cole Nussbaumer Knaflic - https://www.amazon.com.br/gp/product/8550804681/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=8550804681&linkCode=as2&tag=mulheresdados-20&linkId=d1bfb82fc2400d81056be3b3f71c1578
   - SITE -  The Analytics Engineering Guide - https://www.getdbt.com/analytics-engineering/
 
   
